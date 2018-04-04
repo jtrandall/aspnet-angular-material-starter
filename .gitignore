@@ -3,3 +3,7 @@
 ################################################################################
 
 /AngularStarter/.vs
+/AngularStarter/AngularStarter.Web/bin
+/AngularStarter/packages
+/AngularStarter/AngularStarter.Web/node_modules
+/AngularStarter/AngularStarter.Web/obj/Debug
